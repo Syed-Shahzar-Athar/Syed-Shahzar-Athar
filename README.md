@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript(ES6) and their Frameworks ReactJs,NodeJs and more**
 
-- 💬 Ask me about **HTML5, CSS3, JavaScript(ES6), ReactJs**
+- 💬 Ask me about **HTML5, CSS3, JavaScript(ES6), Firebase, ReactJs**
 
 - 📫 How to reach me **syedatharmushtaqqadri786@gmail.com**
 
